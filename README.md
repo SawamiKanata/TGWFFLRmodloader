@@ -4,6 +4,10 @@ A character-mod manager and session launcher for **LIGHTNING RETURNS: FINAL FANT
 
 Import compatible character packages, choose a character, and launch a modded session from one interface. The tool restores the original game files after the session ends.
 
+## Part of KanataGroup's broader plans
+
+TGWFFLRmodloader is one of the projects in KanataGroup's broader development plans. The **TGWmod development software** may be made publicly available once it reaches a mature stage. A public release and timeline have not yet been confirmed.
+
 **Windows x64 · .NET 10 Desktop Runtime · English / Japanese interface · Closed source · Preview**
 
 [**Download v0.2.4 for Windows x64**](https://github.com/SawamiKanata/TGWFFLRmodloader/releases/tag/v0.2.4) · [User guide](USER_GUIDE.md) · [Use cases](USE_CASES.md) · [Troubleshooting](TROUBLESHOOTING.md)
