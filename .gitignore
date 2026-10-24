@@ -1,0 +1,12 @@
+# Public distribution repository: documentation only.
+# Binaries are uploaded as Release assets, never committed here.
+*
+!/.gitignore
+!/README.md
+!/USER_GUIDE.md
+!/USE_CASES.md
+!/TROUBLESHOOTING.md
+!/CHANGELOG.md
+!/LICENSE.txt
+!/THIRD_PARTY_NOTICES.md
+!/overview.png

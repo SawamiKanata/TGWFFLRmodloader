@@ -1,0 +1,16 @@
+TGWFFLRmodloader — Proprietary software notice
+
+Copyright (c) 2026 KanataGroup. All rights reserved.
+
+Official compiled releases may be downloaded and used free of charge.
+The application source code is private and is not licensed or distributed
+through this repository. Public access to the documentation and release
+binaries does not make the application open-source software.
+
+All other rights are reserved. For permissions beyond downloading and
+using the official releases, contact the project maintainer through
+https://github.com/SawamiKanata/TGWFFLRmodloader/issues.
+
+This notice covers the project maintainers' own work. Third-party game
+content, trademarks, and other third-party materials remain subject to
+the rights and terms of their respective owners.
